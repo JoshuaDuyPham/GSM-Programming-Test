@@ -1,0 +1,13 @@
+C:\MyProjects\GSMTest\GSMTest\bin\Debug\GSMTest.exe.config
+C:\MyProjects\GSMTest\GSMTest\bin\Debug\GSMTest.exe
+C:\MyProjects\GSMTest\GSMTest\bin\Debug\GSMTest.pdb
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.LCS.resources
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.Properties.Resources.resources
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.csproj.GenerateResource.cache
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.csproj.CoreCompileInputs.cache
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.exe
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.pdb
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.csprojAssemblyReference.cache
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.Menu.resources
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.ASCIIToDNA.resources
+C:\MyProjects\GSMTest\GSMTest\obj\Debug\GSMTest.DNAToASCII.resources

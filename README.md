@@ -1,2 +1,3 @@
 # GSM-Programming-Test
-This is Joshua Pham's solutions for the GSM Programming Test.
+This is Joshua Pham's solutions for the GSM Programming Test. For the mechanism to encode arbitrary standard ASCII text strings
+as DNA, I created an array with a length of 256 that holds every possible combination of 4 of the 4 different bases(A,T,C,G). Each of the 256 ASCII characters corrispoinds to an element in the array. I made the program using windows forms. There is a main menu that has 3 options: ASCII to DNA, DNA to ASCII, and finding the longest common subsequence. The ASCII to DNA allows to to choose the output to be encoded as either DNA or RNA. The DNA to ASCII allows the user to choose whether the ASCII output is the primary strand or the complementary strand.   
